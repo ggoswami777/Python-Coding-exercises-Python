@@ -1,6 +1,6 @@
-# Python Logic and Math Problem Practice
+# Python Logic and Problem Practice
 
-This repository contains my collection of math and logic-building problems with detailed explanations and Python code solutions.
+This repository contains my collection of logic-building problems with detailed explanations and Python code solutions.
 
 Each problem and its corresponding solution is commented thoroughly for better understanding.
 
